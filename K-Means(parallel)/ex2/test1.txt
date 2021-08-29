@@ -1,0 +1,37 @@
+Initialized Vectors!
+0.000000 0.000000 
+0.000000 1.000000 
+1.000000 0.000000 
+10.000000 10.000000 
+10.000000 11.000000 
+11.000000 10.000000 
+
+Initialized Centers!
+0.000000 0.000000 
+0.000000 1.000000 
+
+0 0 0 0 0 0 
+Number of available threads:4
+Iteration 1 distance: 584.000000
+Iteration 2 distance: 39.437500
+Iteration 3 distance: 2.666667
+Iteration 4 distance: 2.666667
+Iteration 5 distance: 2.666667
+Iteration 6 distance: 2.666667
+Iteration 7 distance: 2.666667
+Iteration 8 distance: 2.666667
+Iteration 9 distance: 2.666667
+Iteration 10 distance: 2.666667
+Iteration 11 distance: 2.666667
+Iteration 12 distance: 2.666667
+Iteration 13 distance: 2.666667
+Iteration 14 distance: 2.666667
+Iteration 15 distance: 2.666667
+Iteration 16 distance: 2.666667
+0.333333 0.333333 
+10.333333 10.333333 
+
+0 0 0 1 1 1 
+Center 0 has 3 children
+Center 1 has 3 children
+Finished at 16 iterations
